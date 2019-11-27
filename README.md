@@ -12,4 +12,4 @@
 * And you'll see the total amount in 'Balance' panel, and you can use those money to buy items that are available
 * When you don't have enough money to buy a specific item, that item it will be unavailable for purchasing.
 
-### See component_scheme file for an overview of the component tree
+### See component_scheme.pdf file for an overview of the component tree
