@@ -3,7 +3,7 @@
 ``` 
  npm install
 
- npm run dev
+ npm run start
 ```
 ## Functionalities
 * We have a list of products which are imported fom **public/api/producs.json**
